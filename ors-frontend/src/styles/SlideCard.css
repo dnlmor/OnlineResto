@@ -1,0 +1,25 @@
+/* SlideCard.css */
+
+.slide-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .slide-card-content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .slide-card-content label {
+    margin-right: 1rem;
+  }
+  
+  .slide-card-actions {
+    margin-top: 1rem;
+  }
+  
+  .slide-card-actions button {
+    margin-right: 0.5rem;
+  }
+  

@@ -1,0 +1,41 @@
+/* DishCard.css */
+
+.dish-card {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .dish-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 1rem;
+  }
+  
+  .dish-card-content {
+    text-align: center;
+  }
+  
+  .dish-card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .dish-card-price {
+    font-size: 1rem;
+    color: #888;
+  }
+  
+  .dish-card-description {
+    margin-top: 0.5rem;
+  }
+  
+  .dish-card-button {
+    margin-top: 1rem;
+  }
+  

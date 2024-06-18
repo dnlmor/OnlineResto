@@ -1,0 +1,22 @@
+/* OrderItem.css */
+
+.order-item {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .order-item-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .order-item-actions {
+    margin-top: 0.5rem;
+  }
+  
+  .order-item-actions button {
+    margin-left: 0.5rem;
+  }
+  

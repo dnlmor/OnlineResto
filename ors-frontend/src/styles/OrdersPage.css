@@ -1,0 +1,30 @@
+.orders-page {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.orders-page h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.order-item {
+  background-color: #f0f0f0;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.order-item p {
+  margin: 5px 0;
+}
+
+.order-item ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.order-item li {
+  margin-top: 5px;
+}

@@ -1,0 +1,3 @@
+[submodule "OnlineRestoServices"]
+	path = OnlineRestoServices
+	url = https://github.com/dnlmor/OnlineRestoServices.git

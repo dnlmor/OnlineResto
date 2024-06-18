@@ -1,0 +1,43 @@
+/* MenuCategory.css */
+
+.menu-category {
+    margin-bottom: 2rem;
+  }
+  
+  .category-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .dish-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .dish-card {
+    width: calc(33.33% - 1rem);
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .dish-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .dish-card h3 {
+    margin-top: 0.5rem;
+  }
+  
+  .dish-card p {
+    margin-bottom: 0.5rem;
+  }
+  
+  .dish-card button {
+    margin-top: 0.5rem;
+  }
+  
